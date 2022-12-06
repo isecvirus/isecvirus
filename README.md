@@ -9,4 +9,4 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: <b>OSINT</b> is not hacking.
 
-![My Statics](https://github-readme-stats.vercel.app/api?username=isecvirus&show_icons=true&theme=dark)
+<!-- ![My Statics](https://github-readme-stats.vercel.app/api?username=isecvirus&show_icons=true&theme=dark) -->
