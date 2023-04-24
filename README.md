@@ -7,6 +7,8 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: <b>OSINT</b> is not hacking.
+<!-- - ⚡ Something: ... -->
+- :trollface: <b>OSINT</b> is not hacking.
+- :shipit: <b>Overtalk</b> doesn't reflect that you're well educated .
 
 <!-- ![My Statics](https://github-readme-stats.vercel.app/api?username=isecvirus&show_icons=true&theme=dark) -->
