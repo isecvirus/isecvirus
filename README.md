@@ -2,8 +2,9 @@
 
 ### **CTF**:
   - <a href="https://www.tryhackme.com/p/isv">TryHackMe</a>
-  <!-- - <a href="https://app.hackthebox.com/users/">HackTheBox</a> -->
+  - <a href="https://www.hackthebox.com/home/users/profile/556111">HackTheBox</a>
   - <a href="https://play.picoctf.org/users/isv">PicoCTF</a>
+  - <a href="https://cybertalents.com/members/isv/profile">CyberTalents</a>
 
 <br>
 <br>
