@@ -12,7 +12,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isecvirus&show_icons=true&locale=en&layout=compact&theme=dark" alt="isecvirus" />
 
 <br>
 
