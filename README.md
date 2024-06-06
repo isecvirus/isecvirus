@@ -12,12 +12,10 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isecvirus&show_icons=true&locale=en&layout=compact&theme=dark" alt="isecvirus" />
-
-<br>
-
-![My Statics](https://github-readme-stats.vercel.app/api?username=isecvirus&show_icons=true&theme=dark)
-
+<div style='display:flex;'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=isecvirus&hide=issues&show_icons=true&locale=en&layout=compact&theme=dark&rank_icon=github" alt="isecvirus"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isecvirus&show_icons=true&locale=en&layout=compact&theme=dark" alt="isecvirus"/>
+</div>
 <br>
 
 > [!IMPORTANT]
