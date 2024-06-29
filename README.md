@@ -8,7 +8,7 @@
 |     PicoCTF     |     134     |   17140  | <a href="https://play.picoctf.org/users/isv" target="_blank">isv</a> |
 |    HackTheBox   |     N/A     |    N/A   | <a href="https://www.hackthebox.com/home/users/profile/556111" target="_blank">isv</a> |
 |   CyberTalents  |     11      |    N/A   | <a href="https://cybertalents.com/members/isv/profile" target="_blank">isv</a> |
-|  CyberDefenders |     8       |    250   | <a href="https://cyberdefenders.org/p/isv" target="_blank">isv</a> | <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/isv.png" width="300" />
+|  CyberDefenders |     12       |    350   | <a href="https://cyberdefenders.org/p/isv" target="_blank">isv</a> | <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/isv.png" width="300" />
 |   W3Challs  |     1      |    1   | <a href="https://w3challs.com/profile/isv" target="_blank">isv</a> |
 
 <br>
