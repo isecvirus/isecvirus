@@ -12,6 +12,10 @@
 
 <br>
 
+<a target="_blank" href="https://discord.com/invite/3unDswNxG3"><img src="https://dcbadge.limes.pink/api/server/3unDswNxG3" alt="" /></a>
+
+<br>
+
 <div style='display:flex;'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=isecvirus&hide=issues&show_icons=true&locale=en&layout=compact&theme=dark&rank_icon=github" alt="isecvirus"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isecvirus&show_icons=true&locale=en&layout=compact&theme=dark" alt="isecvirus"/>
