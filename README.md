@@ -5,7 +5,7 @@
 | Platform | Challeneges | Points | Username | Badge |
 |:---------------:|:-----------:|:--------:|:---------------:|:--------------------:|
 |    TryHackMe    |     214     |   36029  | <a href="https://www.tryhackme.com/p/isv" target="_blank">isv</a> | <img src="https://tryhackme-badges.s3.amazonaws.com/isv.png" alt="TryHackMe">
-|     PicoCTF     |     134     |   17140  | <a href="https://play.picoctf.org/users/isv" target="_blank">isv</a> |
+|     PicoCTF     |     154     |   N/A  | <a href="https://play.picoctf.org/users/isv" target="_blank">isv</a> |
 |    HackTheBox   |     N/A     |    N/A   | <a href="https://www.hackthebox.com/home/users/profile/556111" target="_blank">isv</a> |
 |   CyberTalents  |     11      |    N/A   | <a href="https://cybertalents.com/members/isv/profile" target="_blank">isv</a> |
 |  CyberDefenders |     12       |    350   | <a href="https://cyberdefenders.org/p/isv" target="_blank">isv</a> | <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/isv.png" width="300" />
