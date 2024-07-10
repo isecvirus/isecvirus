@@ -24,7 +24,7 @@
 <br>
 
 > [!IMPORTANT]
-> A good human is a good spider!
+> A contributor human is a contributor spider!
 
 <br>
 
