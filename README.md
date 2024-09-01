@@ -28,14 +28,6 @@
 
 <br>
 
-> [!TIP]
-> <b>OSINT</b> is not hacking :trollface:.
-
-> [!TIP]
-> <b>Overtalk</b> doesn't reflect that you're well educated :shipit:.
-
-<br>
-
 > [!CAUTION]
 > Privacy rights supporter ✊.
 
