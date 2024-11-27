@@ -23,14 +23,6 @@
 </div>
 <br>
 
-> [!IMPORTANT]
-> A contributor human is a contributor spider!
-
-<br>
-
-> [!CAUTION]
-> Privacy rights supporter ✊.
-
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
